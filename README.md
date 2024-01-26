@@ -5,13 +5,13 @@
 This repository contains Python scripts for analyzing employee data from a CSV file. The scripts focus on three specific analyses:
 
 1. **Identifying Employees Working for 7 Consecutive Days**
-   - `find_7_consecutive_days.py`
+   - `7_consecutive_days.py`
 
 2. **Finding Employees with Less than 10 Hours but Greater than 1 Hour Between Shifts**
-   - `find_time_between_shifts.py`
+   - `less_10_greater_1.py`
 
 3. **Identifying Employees Working for More than 14 Hours in a Single Shift**
-   - `find_long_shifts.py`
+   - `greater_14.py`
 
 ## Output
 
