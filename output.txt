@@ -1,3 +1,4 @@
+
 =================================================
 Employees works for 7 Consecutive days:
 =================================================
@@ -70,9 +71,9 @@ Xee  XaCar, WFS000200
 XiWW  JAsMiW, WFS000462 
 ZaCEra  Edward, WFS000477 
 
-=================================================
+====================================================================
 Employees with less than 10 hours but greater than 1 hour between shifts:
-=================================================
+====================================================================
 AGeX  WaMhaW REGerM PeWa, WFS000588 
 AXcEcer  ECar JesAs, WFS000541 
 AXvarez  Edgar, WFS000457 
@@ -169,3 +170,8 @@ Xee  XaCar, WFS000200
 XiWW  JAsMiW, WFS000462 
 ZaCEra  CigAeX, WFS000499 
 ZaCEra  Edward, WFS000477 
+
+====================================================
+Employees work for greater than 14 hours:
+====================================================
+DeXgadiXXE REdarMe ChrisMiaW S, WFS000523

@@ -17,9 +17,9 @@ filtered_df = df[(df['Time Difference'] < pd.Timedelta(hours=10)) & (df['Time Di
 
 # Display the result
 with open('./output.txt', 'a') as output_file:
-    output_file.write("\n====================================================================================\n")
+    output_file.write("\n====================================================================\n")
     output_file.write("Employees with less than 10 hours but greater than 1 hour between shifts:\n")
-    output_file.write("======================================================================================\n")
+    output_file.write("====================================================================\n")
 
     # To keep track of unique names
     unique_names = set()  

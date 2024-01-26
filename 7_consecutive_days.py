@@ -19,7 +19,7 @@ result = df[df['Consecutive Days'] == 1].groupby(['Employee Name', 'Position ID'
 # Write the result to a separate file called output.txt
 
 with open("./output.txt", 'w') as output_file:
-    output_file.write("=================================================\n")
+    output_file.write("\n=================================================\n")
     output_file.write("Employees works for 7 Consecutive days:\n")
     output_file.write("=================================================\n")
     for row in result.reset_index().values:
